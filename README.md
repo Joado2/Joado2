@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Joado2 nice to meet u <3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+        🎇🔰 ABOUT ME 🔰🎇
+ 
+🙋‍♂️ Hi , im @Joado2 my aged is 16 years old nice to meet ya!
 
-<!---
-Joado2/Joado2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
-You can click the Preview link to take a look at your changes.
---->
+📂I like do coding & playing some games, and I'm also just learning about coding/programming like making minecraft server plugins 
+  , you can say I'm a super beginner 
+
+💻 Whats APP Im using for cd? im using VSC , Python etc
+
+📌 maybe i will share my code or my mc plugin sometimes :>
